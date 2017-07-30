@@ -1,0 +1,3 @@
+v0.1:
+v0.2:
+	1. expand pad 12 and 24 on MDBT42Q on part U1.
